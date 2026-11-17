@@ -8,9 +8,8 @@ Currently, I develop and maintain published titles on the Google Play Store.
 
 ### 📱 Published Projects
 
-* **Time Breaker: Action & Runner**  
+* **Time Breaker: Action & Runner**    👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.timebreaker)
   A 3D mobile arcade action-runner built with custom optimization pipelines, low-latency controls, and optimized rendering for mid/low-end devices.  
-  👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.timebreaker)
 
 * **Zikirmatik 3D (Zikr Counter: 3D Real Dhikr)**  
   A tactile 3D utility application featuring realistic physics response, clean UI architecture, and minimal power consumption.  
