@@ -14,13 +14,13 @@ Currently, I develop and maintain published titles on the Google Play Store.
 * **Zikirmatik 3D (Zikr Counter: 3D Real Dhikr)**    👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.zikrcounter3d)<br>
   A tactile 3D utility application featuring realistic physics response, clean UI architecture, and minimal power consumption.  
 
-* **Angry Bekir: Cheat & Shoot FPS**  
-  An arcade-style mobile FPS featuring responsive weapon handling, modular target-spawning mechanics, and lightweight rendering optimized for smooth mobile frame rates.
-  👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.angrybekir)
+* **Angry Bekir: Cheat & Shoot FPS**    👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.angrybekir)<br>
+  An arcade-style mobile FPS featuring responsive weapon handling, modular target-spawning mechanics, and lightweight rendering optimized for smooth mobile frame rates.<br>
 
-* **ZeroLag IPTV**  
-  ZeroLag IPTV is a high-speed Windows IPTV player engineered with a dual WebView2/LibVLC playback engine for instant channel switching, universal aspect-ratio stretching, and full remote control support.<br>
-  👉 [View on GitHub](https://github.com/KosugeDev/zero-lag-iptv/releases/tag/v2.1.0)
+
+* **ZeroLag IPTV**    👉 [View on GitHub](https://github.com/KosugeDev/zero-lag-iptv/releases/tag/v2.1.0)<br>
+  ZeroLag IPTV is a high-speed Windows IPTV player engineered with a dual WebView2/LibVLC playback engine for instant channel switching, universal aspect-ratio stretching, and full remote control support.
+
   
 ---
 
