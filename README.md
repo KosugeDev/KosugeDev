@@ -8,16 +8,16 @@ Currently, I develop and maintain published titles on the Google Play Store.
 
 ### 📱 Published Projects
 
-* **Time Breaker: Action & Runner**    👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.timebreaker)<br>
+* **Time Breaker: Action & Runner**    👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.timebreaker)
   A 3D mobile arcade action-runner built with custom optimization pipelines, low-latency controls, and optimized rendering for mid/low-end devices.  
   
-* **Zikirmatik 3D (Zikr Counter: 3D Real Dhikr)**      👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.zikrcounter3d)<br>
+* **Zikirmatik 3D (Zikr Counter: 3D Real Dhikr)**      👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.zikrcounter3d)
   A tactile 3D utility application featuring realistic physics response, clean UI architecture, and minimal power consumption.  
 
-* **Angry Bekir: Cheat & Shoot FPS**      👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.angrybekir)<br>
+* **Angry Bekir: Cheat & Shoot FPS**      👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.angrybekir)
   An arcade-style mobile FPS featuring responsive weapon handling, modular target-spawning mechanics, and lightweight rendering optimized for smooth mobile frame rates.
 
-* **ZeroLag IPTV**      👉 [View on GitHub](https://github.com/KosugeDev/zero-lag-iptv/releases/tag/v2.1.0)<br>
+* **ZeroLag IPTV**      👉 [View on GitHub](https://github.com/KosugeDev/zero-lag-iptv/releases/tag/v2.1.0)
   A high-speed Windows IPTV player engineered with a dual WebView2/LibVLC playback engine for instant channel switching, universal aspect-ratio stretching, and full remote control support.
 
   
