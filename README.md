@@ -18,7 +18,7 @@ Currently, I develop and maintain published titles on the Google Play Store.
   An arcade-style mobile FPS featuring responsive weapon handling, modular target-spawning mechanics, and lightweight rendering optimized for smooth mobile frame rates.<br>
   👉 [View on Google Play](https://play.google.com/store/apps/details?id=com.kosuge.angrybekir)<br>
 * **ZeroLag IPTV**    
-  ZeroLag IPTV is a high-speed Windows IPTV player engineered with a dual WebView2/LibVLC playback engine for instant channel switching, universal aspect-ratio stretching, and full remote control support.
+  ZeroLag IPTV is a high-speed Windows IPTV player engineered with a dual WebView2/LibVLC playback engine for instant channel switching, universal aspect-ratio stretching, and full remote control support.<br>
   👉 [View on GitHub](https://github.com/KosugeDev/zero-lag-iptv/releases/tag/v2.1.0)<br>
   
 ---
